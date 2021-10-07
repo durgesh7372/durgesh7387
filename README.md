@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @durgesh7387
-- 👀 I’m interested in Ethical Hacking.
+- 👋 Hi, I’m Durgesh
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Core Java.
 
 
